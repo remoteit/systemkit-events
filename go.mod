@@ -1,3 +1,3 @@
-module github.com/codemodify/systemkit-events
+module github.com/remoteit/systemkit-events
 
 go 1.13

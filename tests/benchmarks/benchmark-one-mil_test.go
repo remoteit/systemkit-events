@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	events "github.com/codemodify/systemkit-events"
+	events "github.com/remoteit/systemkit-events"
 )
 
 func Benchmark_benchmark_one_mil(b *testing.B) {

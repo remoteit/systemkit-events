@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	events "github.com/codemodify/systemkit-events"
+	events "github.com/remoteit/systemkit-events"
 )
 
 func Test_Raise_On_Once(t *testing.T) {
